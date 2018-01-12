@@ -1,0 +1,17 @@
+{
+  "name": "reactstarted",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Thach"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/xuanthachit/ReactStarted",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

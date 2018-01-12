@@ -1,0 +1,12 @@
+----------- STEP BY STEP
+
+- npm init
+- bower init: if cannot run command above you can fix
+	Uninstall existing GIT bash
+	Reinstall GIT bash
+	Set up during installation:
+	3a: Select> Use Git form the Windows Command Prompt
+	3b: Select> Checkout Windows-style, commit Unix-style line endings
+	3c: Select> Use Windows' default console window
+- create gitignore
+	touch gitignore
