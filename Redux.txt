@@ -1,0 +1,14 @@
+--- WHY REDUX
+	+ One Store
+	+ Reduced Boilerplate
+	+ Isomorphic/Universal Friendly
+	+ Immutable Store
+	+ Hot Reloading
+	+ Time-travel debugging
+	+ Small
+- Enviroment
+	+ React
+	+ Redux
+	+ React/Route
+	+ Webpack
+	+ Babel

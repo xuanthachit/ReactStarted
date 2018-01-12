@@ -1,0 +1,35 @@
+- React is a Javascript library, it's not a framework.
+- To do nhanh
+- React: 
+	+ Mo ta giao dien nguoi dung su dung components
+	+ Components duoc hieu nhu mot function don gian trong bat ky chuong trinh nao
+	+ Co the truyen vao 1 input (state or input properties) 
+	     va xuat ra output (giao dien nguoi dung ~ HTML) nhu function
+	+ Co the tai su dung khi can thiet 1 component trong nhieu giao dien nguoi dung
+	     va 1 component co the bao gom cac component khac
+	+ Cac component co the co private state chua data co the thay doi bat cu khi nao
+	+ React ngoai hoat dong tren Client ma con duoc render tren Server
+	+ React su dung may chu DOM ao, de lua chon va render nhung phan tu node
+	     dua tren su thay doi, voi mo su thay doi cua state se update vao DOM
+--> Vi du: Doi voi Angular khi lay du lieu tu Server tren Client Ajax se render
+	ra HTML toan bo trang
+	Nhung doi voi React su dung DOM de render ra 1 cay HTML ao truoc, va bat cu 
+	 khi nao state thay doi ta se co 1 cay HTML moi duoc ghi vao DOM
+------------------------------------------------------------------------------------
+ 
+ ------------ REACT COMPONENTS --------------
+
+- Function components
+	- Nhan vao props va tra ve HTML
+- Class conponents
+	- Nhan vao cac state tra ve HTML
+	- Co the thay doi internal state
+- State: co the thay doi gia tri
+- Props: tat ca gia tri deu co dinh
+
+
+
+--------------------------------------------------------------------
+
+
+
