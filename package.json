@@ -1,7 +1,7 @@
 {
-  "name": "reactstarted",
+  "name": "react-full",
   "version": "1.0.0",
-  "description": "",
+  "description": "react full",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/xuanthachit/ReactStarted.git"
   },
-  "author": "Thach",
+  "author": "ThachTrinh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xuanthachit/ReactStarted/issues"
   },
-  "homepage": "https://github.com/xuanthachit/ReactStarted#readme"
+  "homepage": "https://github.com/xuanthachit/ReactStarted#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31",
+    "node": "^9.4.0"
+  }
 }

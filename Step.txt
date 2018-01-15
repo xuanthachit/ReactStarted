@@ -10,3 +10,9 @@
 	3c: Select> Use Windows' default console window
 - create gitignore
 	touch gitignore
+- create app folder -> index.ejs
+- create server folder -> main.js
+- create gulp file
+	npm install -g gulp
+	npm install --save gulp gulp-live-server
+
