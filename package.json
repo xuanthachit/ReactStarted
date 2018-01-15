@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/xuanthachit/ReactStarted#readme",
   "dependencies": {
+    "browser-sync": "^2.23.5",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "gulp": "^3.9.1",

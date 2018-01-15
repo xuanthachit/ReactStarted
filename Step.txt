@@ -15,4 +15,5 @@
 - create gulp file
 	npm install -g gulp
 	npm install --save gulp gulp-live-server
+	npm install --save browser-sync
 
