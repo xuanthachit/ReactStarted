@@ -16,4 +16,32 @@
 	npm install -g gulp
 	npm install --save gulp gulp-live-server
 	npm install --save browser-sync
+- install React
+	npm install --save react
+and install in bower
+	bower install --save react
+and install to global react-tools
+	npm install -g react-tools
+then test jsx: jsx la cu phap mo rong cua Javascript viet theo kieu XML
+thay the cho cau lenh React.createElement() trong React
+	jsx
+- De complie tu JSX sang JS khong su dung React tools, can cai them 1 vai dependency
+	npm install -g browserify	 -	http://browserify.org/
+	npm install --save reactify browserify
+	npm install --save vinyl-source-stream
+--> run command:	 gulp bundle
+--> in index.ejs change script file from main.jsx to app.js (.tmp folder)
+--> in main.js (folder server) change folder from 'app' to '.tmp'
+.use(express.static(__dirname + './../tmp'))
+
+-- Create a React components
+	var React = require('react/addons');
+	module.exports = React.createClass({
+    		// method, parameter, some public,some not ...
+		render:function(){
+			return( HTML... )
+		}
+	})
+
+
 
